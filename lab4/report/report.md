@@ -165,9 +165,6 @@ $$ y' = - w*w*x - g*y - f(t) $$
 с начальными условиями $x_{0} = 0$, $y_{0} = -1.4$
 
 
-![Интервал ](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_7.png?raw=true){ #fig:001 width=70% }
-
-
 
 ### Колебания гармонического осциллятора без затуханий и без действий внешней силы
 
@@ -224,9 +221,9 @@ end Oscillator;
 
 ```
 
-![Код программы ](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_2.png?raw=true){ #fig:002 width=70% }
+![Код программы ](https://github.com/NursultanGazdhiev/NursultanGazdhiev/blob/master/lab4/image/1%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.jpg?raw=true){ #fig:001 width=70% }
 
-![Фазовый портрет гармонического осциллятора без затухание и без действия внешней силы](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_1.png?raw=true){ #fig:003 width=70% }
+![Фазовый портрет гармонического осциллятора без затухание и без действия внешней силы](https://github.com/NursultanGazdhiev/NursultanGazdhiev/blob/master/lab4/image/1%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.jpg?raw=true){ #fig:002 width=70% }
 
 
 ### Колебания гармонического осциллятора c затуханием и без действий внешней силы
@@ -286,9 +283,9 @@ end Oscillator;
 ```
 
 
-![Код программы ](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_4.png?raw=true){ #fig:004 width=70% }
+![Код программы ](https://github.com/NursultanGazdhiev/NursultanGazdhiev/blob/master/lab4/image/2%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.jpg?raw=true){ #fig:003 width=70% }
 
-![Фазовый портрет гармонического осциллятора c затуханием и без действий внешней силы](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_3.png?raw=true){ #fig:005 width=70% }
+![Фазовый портрет гармонического осциллятора c затуханием и без действий внешней силы](https://github.com/NursultanGazdhiev/NursultanGazdhiev/blob/master/lab4/image/2%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.jpg?raw=true){ #fig:004 width=70% }
 
 
 ### Колебания гармонического осциллятора c затуханием и под действием внешней силы
@@ -347,9 +344,9 @@ end Oscillator;
 ```
 
 
-![Код программы ](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_6.png?raw=true){ #fig:006 width=70% }
+![Код программы ](https://github.com/NursultanGazdhiev/NursultanGazdhiev/blob/master/lab4/image/3%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.jpg?raw=true){ #fig:005 width=70% }
 
-![Фазовый портрет гармонического осциллятора c затуханием и под действий внешней силы](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab04/image/Screenshot_5.png?raw=true){ #fig:007 width=70% }
+![Фазовый портрет гармонического осциллятора c затуханием и под действий внешней силы](https://github.com/NursultanGazdhiev/NursultanGazdhiev/blob/master/lab4/image/3%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.jpg?raw=true){ #fig:006 width=70% }
 
 
 # Выводы
